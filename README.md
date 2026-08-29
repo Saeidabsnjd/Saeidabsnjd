@@ -1,44 +1,12 @@
-<div align="center">
-
-# 👋 Hi, I'm Saeid Abbasnejad
-
-### Computer Vision • 3D Vision • Machine Learning • C++ Systems
-
-M.Sc. ICT student at the University of Padova 🇮🇹
-
-Interested in building intelligent systems that understand images, video, geometry, and the 3D world.
-
-<br>
-
-<a href="https://github.com/Saeidabsnjd">
-<img src="https://img.shields.io/badge/GitHub-Saeidabsnjd-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saeid-abbasnejad-18993b120">
-<img src="https://img.shields.io/badge/LinkedIn-Saeid_Abbasnejad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:Saeidsgs@gmail.com">
-<img src="https://img.shields.io/badge/Email-Saeidsgs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Saeidabsnjd&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
-
 # 👨‍💻 About Me
 
-I'm an ICT master's student at the University of Padova with a strong interest in **computer vision, 3D vision, machine learning, graphics, and systems programming**.
+Hi, I'm Saeid. I'm an ICT master's student at the **University of Padova**, and most of my interests revolve around **Computer Vision, 3D Vision, Machine Learning, and Graphics**.
 
-I enjoy working on problems where research and engineering meet. My projects have taken me from **real time visual tracking and 3D point cloud representation learning** to **machine learning, graph analysis, NLP, and low level C++ security systems**.
+I enjoy building things and experimenting with ideas around how machines can understand images, video, geometry, and the 3D world.
 
-What interests me most is understanding how machines can perceive, represent, and reconstruct the world from **images, video, geometry, and learned representations**.
+My work so far has included **real time computer vision, point cloud learning, 3D feature matching, machine learning, graph analysis, NLP, and C++ systems programming**.
 
-I'm currently moving deeper into **3D computer vision and neural scene representations**, especially topics such as neural rendering, NeRF, Gaussian Splatting, novel view synthesis, multi view geometry, and differentiable graphics.
+Right now, I'm especially interested in going deeper into **3D reconstruction, neural rendering, NeRF, Gaussian Splatting, novel view synthesis, and geometry aware deep learning**.
 
 <br>
 
@@ -62,7 +30,7 @@ I'm currently moving deeper into **3D computer vision and neural scene represent
 
 🎥 Video Understanding
 
-🎯 Object Detection and Tracking
+🎯 Object Tracking
 
 </td>
 
@@ -102,7 +70,7 @@ I'm currently moving deeper into **3D computer vision and neural scene represent
 
 🔗 Multimodal Learning
 
-🖥️ High Performance Systems
+🖥️ C++ Systems
 
 </td>
 </tr>
@@ -111,8 +79,6 @@ I'm currently moving deeper into **3D computer vision and neural scene represent
 <br>
 
 # 🚀 Currently Exploring
-
-I'm currently expanding my knowledge around:
 
 🌌 **Neural Radiance Fields**
 
@@ -274,8 +240,6 @@ I'm currently expanding my knowledge around:
 
 <img src="https://img.shields.io/badge/Topic_Modeling-374151?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Sentiment_Analysis-475569?style=for-the-badge"/>
-
 </p>
 
 ## ⚡ GPU and Development
@@ -302,8 +266,6 @@ Built a real time computer vision system for analyzing billiard matches using **
 
 The system detects the cue ball, object balls, and table boundaries under real world viewpoint variation and generates a dynamic 2D minimap for visualizing ball trajectories.
 
-**Topics**
-
 `Computer Vision` `C++` `OpenCV` `Object Tracking` `Video Analysis`
 
 <br>
@@ -312,9 +274,7 @@ The system detects the cue ball, object balls, and table boundaries under real w
 
 Developed a **PointNet based architecture for 3D representation learning and point cloud feature matching**.
 
-Integrated SHOT descriptors with triplet loss to improve feature matching and evaluated the model under noisy 3D conditions using PyTorch.
-
-**Topics**
+Integrated SHOT descriptors with triplet loss for robust feature matching and evaluated the model under noisy 3D conditions using PyTorch.
 
 `3D Vision` `Point Clouds` `PointNet` `SHOT` `PyTorch` `Representation Learning`
 
@@ -322,15 +282,13 @@ Integrated SHOT descriptors with triplet loss to improve feature matching and ev
 
 ## 🌐 Reddit Discourse Analysis
 
-Built a data science pipeline for studying online communities and discussions across Reddit.
+Built a research pipeline for studying discussions and online communities across Reddit.
 
-Used **BERTopic with transformer based language models** for semantic topic modeling, Louvain community detection for graph analysis, and VADER for sentiment analysis.
+Used **BERTopic with transformer based language models** for topic modeling and semantic clustering, Louvain community detection for graph analysis, and VADER for sentiment analysis.
 
 Created interactive visualizations using NetworkX, igraph, Plotly, and PyVis.
 
-**Topics**
-
-`Machine Learning` `NLP` `BERTopic` `Graph Mining` `Network Science` `Data Science`
+`Machine Learning` `NLP` `BERTopic` `Graph Mining` `Network Science`
 
 <br>
 
@@ -340,27 +298,21 @@ Worked on system level components for monitoring the behavior of untrusted proce
 
 Used **C++, multithreading, multiprocessing, object oriented design, and Windows API analysis** for behavioral inspection and malware detection research.
 
-**Topics**
-
 `C++` `Systems Programming` `Software Security` `Concurrency` `Windows API`
 
 <br>
 
 ## 🖼️ Image Recognition
 
-Built neural network pipelines with **TensorFlow and Keras** for image recognition and handwritten digit classification.
+Built neural network pipelines using **TensorFlow and Keras** for image recognition and handwritten digit classification.
 
-Worked with preprocessing, model training, regularization, evaluation, and hyperparameter tuning.
+Worked with preprocessing, model training, regularization, model evaluation, and hyperparameter tuning.
 
-**Topics**
-
-`Deep Learning` `TensorFlow` `Keras` `Image Recognition` `Machine Learning`
+`Deep Learning` `TensorFlow` `Keras` `Computer Vision` `Machine Learning`
 
 <br>
 
 # 🎯 What I Want to Build Next
-
-I'm especially interested in future projects involving:
 
 🌌 Neural scene reconstruction
 
@@ -386,7 +338,7 @@ I'm especially interested in future projects involving:
 
 🧊 Neural scene representations
 
-📸 Computational photography
+📸 Computational imaging
 
 ⚡ GPU accelerated vision pipelines
 
@@ -420,13 +372,13 @@ I'm especially interested in future projects involving:
 
 **M.Sc. ICT for Internet and Multimedia**
 
-Current master's student working across machine learning, multimedia systems, computer vision, network science, and intelligent computing.
+Currently studying topics across multimedia systems, machine learning, network science, and intelligent computing.
 
 <br>
 
 # 🤝 Let's Connect
 
-I'm always interested in discussing **computer vision, 3D perception, neural rendering, machine learning, graphics, research ideas, and challenging engineering problems**.
+I'm always interested in discussing **computer vision, 3D vision, neural rendering, machine learning, graphics, research ideas, and challenging engineering problems**.
 
 If you're working on something interesting in these areas, feel free to reach out.
 
@@ -450,8 +402,8 @@ If you're working on something interesting in these areas, feel free to reach ou
 
 <div align="center">
 
-## 👁️ Vision • 🌐 3D • 🧠 Learning • ⚡ Systems
+### 👁️ Vision • 🌐 3D • 🧠 Learning • ⚡ Systems
 
-### Learning how machines see, understand, and reconstruct the world.
+**Learning how machines see, understand, and reconstruct the world.**
 
 </div>
