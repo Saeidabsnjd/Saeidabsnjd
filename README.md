@@ -42,143 +42,32 @@ Right now, I'm particularly interested in **3D reconstruction, neural rendering,
 
 <br>
 
-# 🛠️ Tech Stack
-
-## 💻 Programming
+# 💻 Tech Stack
 
 <p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat"/>
-
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPEN3D-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VTK-0066AA?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MONAI-00A6D6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NETWORKX-444444?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERTOPIC-202020?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LATEX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
-
-## 🧠 Machine Learning and Deep Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MONAI-00A6D6?style=flat"/>
-
-</p>
-
-## 👁️ Computer Vision
-
-<p>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Computer_Vision-111111?style=flat"/>
-
-<img src="https://img.shields.io/badge/Image_Processing-4B8BBE?style=flat"/>
-
-<img src="https://img.shields.io/badge/Object_Tracking-222222?style=flat"/>
-
-<img src="https://img.shields.io/badge/Feature_Matching-333333?style=flat"/>
-
-<img src="https://img.shields.io/badge/Video_Analysis-444444?style=flat"/>
-
-</p>
-
-## 🌐 3D Vision and Geometry
-
-<p>
-
-<img src="https://img.shields.io/badge/Open3D-000000?style=flat"/>
-
-<img src="https://img.shields.io/badge/VTK-0066AA?style=flat"/>
-
-<img src="https://img.shields.io/badge/Point_Clouds-262626?style=flat"/>
-
-<img src="https://img.shields.io/badge/PointNet-8A2BE2?style=flat"/>
-
-<img src="https://img.shields.io/badge/3D_Vision-191970?style=flat"/>
-
-<img src="https://img.shields.io/badge/3D_Reconstruction-2F4F4F?style=flat"/>
-
-<img src="https://img.shields.io/badge/Feature_Descriptors-483D8B?style=flat"/>
-
-<img src="https://img.shields.io/badge/3D_Matching-4B0082?style=flat"/>
-
-</p>
-
-## ✨ Neural Graphics and Rendering
-
-<p>
-
-<img src="https://img.shields.io/badge/Neural_Rendering-111111?style=flat"/>
-
-<img src="https://img.shields.io/badge/NeRF-8B5CF6?style=flat"/>
-
-<img src="https://img.shields.io/badge/Gaussian_Splatting-EC4899?style=flat"/>
-
-<img src="https://img.shields.io/badge/Novel_View_Synthesis-6366F1?style=flat"/>
-
-<img src="https://img.shields.io/badge/Differentiable_Rendering-7C3AED?style=flat"/>
-
-<img src="https://img.shields.io/badge/Neural_Scene_Representations-A855F7?style=flat"/>
-
-</p>
-
-## 📊 Scientific Computing and Data
-
-<p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NetworkX-444444?style=flat"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyVis-6A5ACD?style=flat"/>
-
-</p>
-
-## 📝 NLP and Graph Analysis
-
-<p>
-
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NLTK-154F3C?style=flat"/>
-
-<img src="https://img.shields.io/badge/BERTopic-202020?style=flat"/>
-
-<img src="https://img.shields.io/badge/Graph_Mining-4B5563?style=flat"/>
-
-<img src="https://img.shields.io/badge/Topic_Modeling-374151?style=flat"/>
-
-</p>
-
-## ⚡ GPU and Development
-
-<p>
-
-<img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-
-</p>
-
